@@ -1,5 +1,7 @@
 # DC NITRO PICKER
 
+![image](https://user-images.githubusercontent.com/82940827/196197651-33a2831d-5f5a-4dd4-9a81-65028deae6b1.png)
+
 Tai skriptas, kuris automatizuotai ieško tarp discord žinučių nitro kodo, ir jeigu randa - bando aktyvuoti.
 
 ## Prieš naudojant
