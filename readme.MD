@@ -13,7 +13,7 @@ Naudokite paketų tvarkyklę [pip](https://pip.pypa.io/en/stable/) instaliuojant
 
 pirma reikia instaliuoti reikiamas python bibliotekas
 ```bash
-git clone git@github.com:elrasho/dc-nitro-picker.git
+git clone https://github.com/dariuxas/nitrosnaiperis
 pip install -r requirements.txt
 ```
 
